@@ -105,6 +105,9 @@ footer div{
     main .box .dream {
         width: 100%;
     }
+    .box .dream img{
+        opacity:1;
+    }
     .box .dream img:hover{
         transform:scale(100%);
     }
